@@ -69,6 +69,7 @@ local DiamondId = {
 	[3468728207] = true,
 	[99087422] = true,
 	[3656041166] = true,
+	[3354991754] = true,
 }
 
 local EnemyId = {} 
